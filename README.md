@@ -12,6 +12,7 @@ November 2023 - Februar 2024
 5. Entwicklung einer Suchmaschine für akademische Paper
 6. Terms-of-Service Simplification: Automatische Textzusammenfassung oder Klassifikation nutzen, um AGBs besser und kürzer verständlich zu machen
 7. Textanalyse für Wahlprogramme (z.B. Erkennung von Schwerpunkten, Sentiment, etc.)
+   
 ...
 
 
